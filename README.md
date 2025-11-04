@@ -138,7 +138,7 @@ Mis intereses profesionales se centran en capitalizar mi experiencia técnica en
 
 ### ⚡ Frase que me representa
 
-> “El código más limpio no es el que menos líneas tiene, sino el que más fácil se entiende.” 💬
+> “El código más limpio no es el que menos líneas tiene, sino el que más fácil se entiende.”
 
 ---
 
