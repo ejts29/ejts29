@@ -20,20 +20,26 @@ Durante mi trayectoria académica he desarrollado diversos proyectos funcionales
 
 He organizado mi *expertise* en dominios clave que demuestran la profundidad de mi conocimiento:
 
+#### 🎨 Desarrollo Frontend & Diseño
+* **Core:** HTML5, CSS3, JavaScript.
+* **Frameworks/Librerías:** React, Vue.js, Bootstrap, Tailwind CSS.
+* **Diseño:** Principios de diseño responsivo y UX/UI.
+
+
 #### 💻 Desarrollo Backend & Arquitectura
 * **Lenguajes:** **Java JSE**, **PHP**, **JavaScript**.
 * **Frameworks:** **Spring Boot** (Java), **Laravel** (PHP), **Node.js** (API Development).
 * **Arquitectura:** Implementación del patrón de diseño **MVC**, desarrollo de **APIs RESTful** para exponer servicios y operaciones **CRUD**.
 * **Herramientas:** Postman, Swagger para documentación y pruebas de servicios.
 
-#### 📱 Desarrollo Móvil (Multiplataforma)
-* **Frameworks:** Experiencia en el uso de **Ionic** y **Angular** para construir aplicaciones híbridas.
-* **Tecnologías:** Conocimiento en la manipulación del DOM, consumo de APIs y gestión del ciclo de vida de los componentes, esenciales para el desarrollo **React Native/Expo**.
-
 #### 🐬 Bases de Datos
 * **Diseño:** Modelado **MER (Entidad-Relación)**, Modelo Relacional y aplicación rigurosa de formas normales (**1NF, 2NF, 3NF**).
 * **Programación:** Dominio de **SQL** y desarrollo de subprogramas: **Procedimientos Almacenados**, **Funciones** y **Triggers**.
 * **SGBD:** Experiencia con **MySQL**.
+
+#### 📱 Desarrollo Móvil (Multiplataforma)
+* **Frameworks:** Experiencia en el uso de **Ionic** y **Angular** para construir aplicaciones híbridas.
+* **Tecnologías:** Conocimiento en la manipulación del DOM, consumo de APIs y gestión del ciclo de vida de los componentes, esenciales para el desarrollo **React Native/Expo**.
 
 #### 🧪 Calidad, Metodologías & DevOps
 * **Testing (QA):** Experiencia en la elaboración de **Planes de Pruebas**, selección de **Tipos de Pruebas** (Unitaria, Integración, Sistema) y comprensión de herramientas de automatización.
@@ -41,10 +47,6 @@ He organizado mi *expertise* en dominios clave que demuestran la profundidad de 
 * **Versionamiento (DevOps):** Dominio de **Git y GitHub** para la gestión de repositorios, clonación, ramas (*branches*), *merges* y control de versiones distribuido.
 * **Cloud Fundamentals:** Fundamentos de **Computación en Nube**, arquitectura **SaaS** (Software as a Service) y uso de herramientas básicas para implementar recursos cloud.
 
-#### 🎨 Frontend & Diseño
-* **Core:** HTML5, CSS3, JavaScript.
-* **Frameworks/Librerías:** React, Vue.js, Bootstrap, Tailwind CSS.
-* **Diseño:** Principios de diseño responsivo y UX/UI.
 
 ---
 
