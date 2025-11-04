@@ -74,15 +74,17 @@ API RESTful documentada con Swagger para gestión de inventario.
 
 **Áreas de Foco (Detalle Curricular):**
 
-🔹 **Programación Orientada a Objetos (POO):** En Java JSE, cubriendo los 4 pilares y Manejo de Excepciones.
+🔹 **Desarrollo Frontend:** Construcción de interfaces de usuario funcionales (UI/UX), aplicación de diseño responsivo y creación de **Componentes Reutilizables** usando frameworks modernos como React, Vue.js y bibliotecas de estilo como Bootstrap, que permiten acelerar el desarrollo y mantener una apariencia coherente en distintos dispositivos.
 
-🔹 **Diseño y Programación de BBDD:** Modelado, Normalización, SQL avanzado y Programación de subprogramas (Vistas, Triggers, Funciones).
+🔹 **Programación Orientada a Objetos (POO):** En Java JSE, cubriendo los 4 pilares (Abstracción, Encapsulamiento, Polimorfismo y Herencia) y Manejo de Excepciones.
 
-🔹 **Desarrollo Backend:** Tecnologías de servidor (PHP, Spring Boot) y desarrollo de APIs REST.
+🔹 **Diseño y Programación de BBDD:** Modelado, Normalización (1NF, 2NF, 3NF), SQL y Programación de subprogramas (Vistas, Triggers, Funciones).
 
-🔹 **Testing Aplicado y Cloud:** Planificación de pruebas, Fundamentos de QA y arquitectura SaaS.
+🔹 **Desarrollo Backend:** Tecnologías de servidor (PHP, Spring Boot) y desarrollo de APIs REST (Patrón MVC).
 
-🔹 **Desarrollo de Aplicaciones Móviles:** Uso de frameworks híbridos como **Ionic** y librerías web (Angular/React) para construir la interfaz y lógica de aplicaciones.
+🔹 **Testing Aplicado y Cloud:** Planificación de pruebas (Unitarias, Integración, Aceptación), Fundamentos de QA y arquitectura SaaS.
+
+🔹 **Desarrollo de Aplicaciones Móviles:** Uso de frameworks híbridos como **Ionic/expo** y librerías web (Angular/React Native) para construir la interfaz y lógica de aplicaciones.
 
 ---
 
@@ -92,7 +94,7 @@ Busco activamente oportunidades como **Desarrollador Junior** en equipos de **de
 
 Mis intereses profesionales se centran en capitalizar mi experiencia técnica en:
 
-* 🎨 **Desarrollo Frontend & UX/UI:** Creación de interfaces modulares y responsivas con **React/Vue.js**, enfocadas en la **Experiencia de Usuario (UX/UI)** y el **Diseño Centrado en el Usuario**.
+* 🎨 **Desarrollo Frontend & UX/UI:** Dominio de **HTML, CSS y JavaScript** como base. Creación de interfaces modulares y responsivas con **React/Vue.js** (componentes reutilizables), enfocadas en la **Experiencia de Usuario (UX/UI)** y el **Diseño Centrado en el Usuario**.
   
 * 🌍 **Desarrollo Backend & Arquitectura Web:** Construcción de **APIs RESTful** robustas con Java (Spring Boot) y PHP (Laravel), aplicando el patrón **MVC** para una lógica de negocio clara y mantenible.
   
@@ -109,7 +111,6 @@ Mis intereses profesionales se centran en capitalizar mi experiencia técnica en
 </p>
 
 ---
-
 
 ### 📊 Estadísticas de GitHub
 
