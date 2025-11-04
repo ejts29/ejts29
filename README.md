@@ -126,8 +126,8 @@ Mis intereses profesionales se centran en capitalizar mi experiencia técnica en
 <p align="center">
   <a href="https://github.com/ejts29"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/efrentovar"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/efren-tovar-silva/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  &nbsp;  
   <a href="mailto:ejts29@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
