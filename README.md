@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy **Efren Tovar**, **Técnico en Programación y Análisis de Sistemas** del *Instituto Profesional San Sebastián (IPSS)* 🇨🇱, con perfil junior en desarrollo de software.
+Soy **Efren Tovar**, **Técnico en Programación y Análisis de Sistemas** del *Instituto Profesional San Sebastián (IPSS)* 🇨🇱,.
 
 Mi formación me ha proporcionado una **base teórica y práctica sólida** en todo el ciclo de vida del desarrollo de software, con enfoque en el desarrollo **Full Stack**, integrando tanto el **Backend** (Java, PHP, MySQL) como la creación de interfaces funcionales y centradas en el usuario **(Frontend)**.
 
